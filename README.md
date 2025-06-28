@@ -19,17 +19,18 @@ The pipeline includes data preprocessing using `OneHotEncoder` for categorical v
     ```
 
 2. 
+
     a. **Create a virtual environment:**
 
-        ```bash
-        conda create -p virtual_environment_name python==python_version -y
-        ```
+    ```bash
+    conda create -p virtual_environment_name python==python_version -y
+    ```
     
     b. **Activate virtual Environment:**
 
-        ```bash
-        conda activate virtual_environment_name 
-        ```        
+    ```bash
+    conda activate virtual_environment_name 
+    ```        
 
 3. **Install required packages:**
 
