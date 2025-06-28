@@ -4,3 +4,4 @@ ipykernel
 scikit-learn
 streamlit
 matplotlib
+pickle
