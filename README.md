@@ -18,27 +18,25 @@ The pipeline includes data preprocessing using `OneHotEncoder` for categorical v
     cd ipl-win-predictor
     ```
 
-2. 
-
-    a. **Create a virtual environment:**
+2. **Create a virtual environment:**
 
     ```bash
     conda create -p virtual_environment_name python==python_version -y
     ```
     
-    b. **Activate virtual Environment:**
+3. **Activate virtual Environment:**
 
     ```bash
     conda activate virtual_environment_name 
     ```        
 
-3. **Install required packages:**
+4. **Install required packages:**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Start the application:**
+5. **Start the application:**
 
     ```bash
     streamlit run app.py
